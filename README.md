@@ -8,6 +8,14 @@
 [![WordPress Plugin Active Installs](https://img.shields.io/wordpress/plugin/installs/staticpress2019-s3)](https://wordpress.org/plugins/staticpress2019-s3/advanced/)
 [![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/dm/staticpress2019-s3)](https://wordpress.org/plugins/staticpress2019-s3/advanced/)
 
+## 🚚 Repository has moved
+
+New repository: [https://github.com/yukihiko-shinoda/staticpress2019-s3](https://github.com/yukihiko-shinoda/staticpress2019-s3)
+
+Details: [Move to new repository · Issue #28 · yukihiko-shinoda/staticpress](https://github.com/yukihiko-shinoda/staticpress/issues/28)
+
+---
+
 Uploads dumped static site by StaticPress into S3.
 
 ## Description
